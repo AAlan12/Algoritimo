@@ -1,0 +1,44 @@
+p{
+   
+    color: white;
+    line-height: 20px;	/*	tamanho	da	altura	de	cada	linha	*/
+		letter-spacing: 3px;	/*	tamanho	do	espaço	entre	cada	letra	*/
+		word-spacing: 5px;	/*	tamanho	do	espaço	entre	cada	palavra	*/
+		text-indent: 30px;	/*	tamanho	da	margem	da	primeira	linha	do	texto	*/
+}
+h1{
+   
+    color: blue;
+    
+}
+h2{
+    
+    color: blue;
+    
+}
+body{
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image:	url(logo2.png);
+    border-color:blue;
+    border-style:	solid;
+    border-width: 1px;
+}
+figure	{
+   
+    text-align:	center;
+}
+figcaption{
+    color: white;
+}
+ol{
+    color: white;
+}
+a{
+    color:white
+}
+#centro-distribuicao	{
+    margin-left:	auto;
+    margin-right:	auto;
+    width: 550px;
+}
